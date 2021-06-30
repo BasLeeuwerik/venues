@@ -1,0 +1,45 @@
+module.exports.descriptors = [
+    'Dow Event',
+    'Allentown',
+    'jetBlue',
+    'Erie Veterans',
+    'Fantasy Springs',
+    'Empire',
+    'Phantasy',
+    'Norris',
+    'Lake Charles',
+    'War Memorial',
+    'Harper',
+    'Long',
+    'Charleston',
+    'Brown',
+    'Spokane',
+    'AvidXChange',
+    'Sky',
+    'NorShor'
+]
+
+module.exports.places = [
+    'Center',
+    'Fairgrounds',
+    'Park',
+    'Memorial Stadium',
+    'Special Events Center',
+    'Polo Club',
+    'Theater',
+    'Events Center',
+    'Civic Center',
+    'Complex',
+    'Stadium',
+    'Center for the Performing Arts',
+    'Coliseum & Convention Center',
+    'Convention Center',
+    'Arena',
+    'Music Factory',
+    'Performing Arts Center',
+    'Veterans Memorial Coliseum',
+    'Rock Club',
+    'Showroom',
+    'Church'
+]
+
